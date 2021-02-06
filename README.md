@@ -1,4 +1,6 @@
 # ccminer
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmujikankshdh%2Fmujijankopo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmujikankshdh%2Fmujijankopo?ref=badge_shield)
+
 
 Based on Christian Buchner's &amp; Christian H.'s CUDA project, no more active on github since 2014.
 
@@ -40,3 +42,7 @@ Compile on FreeBSD
 ------------------
 
 Make sure you have `gmake` installed from the ports tree. Use `build-freebsd.sh`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmujikankshdh%2Fmujijankopo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmujikankshdh%2Fmujijankopo?ref=badge_large)
